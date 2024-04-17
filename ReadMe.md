@@ -1,4 +1,4 @@
-# My `Cursor` and `Font`
+# My `Cursors` and `Fonts`
 
 ### Font
 
